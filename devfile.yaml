@@ -11,6 +11,8 @@ components:
     memoryLimit: 6Gi
     mountSources: true
     env:
+    - name: VSCODE_DEFAULT_WORKSPACE
+      value: "/projects/dev-spaces-latex-texlive/latex-texlive.code-workspace"
     - name: SHELL
       value: "/bin/zsh"
     - name: HOME
