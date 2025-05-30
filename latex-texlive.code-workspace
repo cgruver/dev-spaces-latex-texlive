@@ -1,26 +1,17 @@
 {
-    "extensions": {
-		"recommendations": [
-			"redhat.vscode-yaml",
-			"mhutchie.git-graph",
-			"eamodio.gitlens",
-			"streetsidesoftware.code-spell-checker",
-			"johnpapa.winteriscoming",
-			"cnshenj.vscode-task-manager",
-			"ms-python.python",
-			"james-yu.latex-workshop"
-		]
-	},
 	"settings": {
 		"workbench.colorTheme": "Winter is Coming (Light)",
 		"workbench.preferredDarkColorTheme": "Winter is Coming (Dark Blue)",
 		"workbench.preferredLightColorTheme": "Winter is Coming (Light)",
 		"editor.wordWrap": "on",
-		"files.autoSave": "off"
+		"files.autoSave": "off",
+		"latex-workshop.view.pdf.internal.port": 8080,
+		"remote.localPortHost": "allInterfaces"
 	},
 	"folders": [
 		{
-			"path": "."
+			"name": "dev-spaces-latex-texlive",
+			"path": "/projects/dev-spaces-latex-texlive"
 		}
 	]
 }

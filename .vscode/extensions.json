@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "johnpapa.winteriscoming",
+        "cnshenj.vscode-task-manager",
+        "ms-python.python",
+        "james-yu.latex-workshop",
+        "mjpvs.latex-previewer"
+    ]
+}
