@@ -17,6 +17,11 @@ components:
       value: "/bin/zsh"
     - name: HOME
       value: "/projects/home"
+    endpoints:
+      - exposure: none
+        name: pdf
+        protocol: http
+        targetPort: 8080
 - volume:
     size: 20Gi
   name: projects

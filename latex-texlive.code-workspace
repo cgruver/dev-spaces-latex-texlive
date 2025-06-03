@@ -13,5 +13,16 @@
 			"name": "dev-spaces-latex-texlive",
 			"path": "/projects/dev-spaces-latex-texlive"
 		}
-	]
+	],
+	"extensions": {
+		"recommendations": [
+			"dbaeumer.vscode-eslint",
+			"redhat.vscode-yaml",
+			"mhutchie.git-graph",
+			"eamodio.gitlens",
+			"streetsidesoftware.code-spell-checker",
+			"johnpapa.winteriscoming",
+			"cnshenj.vscode-task-manager"
+		]
+	}
 }
