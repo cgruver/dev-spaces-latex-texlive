@@ -5,7 +5,8 @@
 		"workbench.preferredLightColorTheme": "Winter is Coming (Light)",
 		"editor.wordWrap": "on",
 		"latex-workshop.view.pdf.internal.port": 8080,
-		"remote.localPortHost": "allInterfaces"
+		"remote.localPortHost": "allInterfaces",
+		"latexPreview.latexFontDir": "/usr/share/texlive/texmf-dist/fonts"
 	},
 	"folders": [
 		{
